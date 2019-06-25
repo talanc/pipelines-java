@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/talancopeland/pipelines-java/_apis/build/status/talanc.pipelines-java?branchName=master)](https://dev.azure.com/talancopeland/pipelines-java/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
